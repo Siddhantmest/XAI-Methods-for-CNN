@@ -15,3 +15,7 @@ Machine learning has made breakthroughs in the recent years for their applicatio
 **HMT.h5** - VGG-7 trained on the HMT data (code not provided, you can use any other CNN architecture of your choice)
 
 HMT dataset is available via this link https://drive.google.com/drive/folders/1R1kBdADpELCjR76D8icHRWpZvcqNZez4?usp=sharing
+
+#### Note:
+
+If you are using Google Colab to implement the code, I recommend you to change the runtime type to GPU as for some unknown reason Integrated gradient is giving inverted results on normal runtime
