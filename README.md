@@ -10,9 +10,9 @@ Machine learning has made breakthroughs in the recent years for their applicatio
 
 **MNIST1D.pkl** - Pickel file of the MNIST data
 
-**MNIST1D.h5** - CNN model trained on the MNIST1D data (built from scratch, code not provided, you can use any other CNN architecture of your choice)
+**MNIST1D.h5** - CNN model trained on the MNIST1D data (built from scratch, code can be viewed in **MNIST1D.ipynb**, you can use any other CNN architecture of your choice)
 
-**HMT.h5** - VGG-7 trained on the HMT data (code not provided, you can use any other CNN architecture of your choice)
+**HMT.h5** - VGG-7 trained on the HMT data (code can be viewed in **HMT.ipynb**, you can use any other CNN architecture of your choice)
 
 HMT dataset is available via this link https://drive.google.com/drive/folders/1R1kBdADpELCjR76D8icHRWpZvcqNZez4?usp=sharing
 
