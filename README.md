@@ -19,3 +19,9 @@ HMT dataset is available via this link https://drive.google.com/drive/folders/1R
 #### Note:
 
 If you are using Google Colab to implement the code, I recommend you to change the runtime type to GPU as for some unknown reason Integrated gradient is giving inverted results on normal runtime
+
+## Research Papers
+
+**GradCAM** - Visual Explanations from Deep Networks via Gradient-based Localization, Ramprasaath R. Selvaraju, Michael Cogswell, Abhishek Das, Ramakrishna Vedantam, Devi Parikh, Dhruv Batra
+
+**Integrated Gradients** - Sundararajan, M., Taly, A. and Yan, Q., 2017, July. Axiomatic attribution for deep networks. In International Conference on Machine Learning (pp. 3319-3328). PMLR.
