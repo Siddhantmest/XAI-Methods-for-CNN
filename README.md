@@ -14,7 +14,7 @@ Machine learning has made breakthroughs in the recent years for their applicatio
 
 **HMT.h5** - VGG-7 trained on the HMT data (code can be viewed in **HMT.ipynb**, you can use any other CNN architecture of your choice)
 
-HMT dataset is available via this link https://drive.google.com/drive/folders/1R1kBdADpELCjR76D8icHRWpZvcqNZez4?usp=sharing
+HMT dataset is available via this [link][link]
 
 #### Note:
 
@@ -26,6 +26,6 @@ If you are using Google Colab to implement the code, I recommend you to change t
 
 **[Integrated Gradients][Integrated Gradients]** - Sundararajan, M., Taly, A. and Yan, Q., 2017, July. Axiomatic attribution for deep networks. In International Conference on Machine Learning (pp. 3319-3328). PMLR.
 
-
+[link]: https://drive.google.com/drive/folders/1R1kBdADpELCjR76D8icHRWpZvcqNZez4?usp=sharing
 [Grad-CAM]: https://arxiv.org/pdf/1610.02391.pdf
 [Integrated Gradients]: https://arxiv.org/pdf/1703.01365.pdf
