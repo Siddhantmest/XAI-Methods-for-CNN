@@ -22,6 +22,10 @@ If you are using Google Colab to implement the code, I recommend you to change t
 
 ## Research Papers
 
-**GradCAM** - Visual Explanations from Deep Networks via Gradient-based Localization, Ramprasaath R. Selvaraju, Michael Cogswell, Abhishek Das, Ramakrishna Vedantam, Devi Parikh, Dhruv Batra
+**[Grad-CAM][Grad-CAM]** - Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization, Ramprasaath R. Selvaraju, Michael Cogswell, Abhishek Das, Ramakrishna Vedantam, Devi Parikh, Dhruv Batra
 
-**Integrated Gradients** - Sundararajan, M., Taly, A. and Yan, Q., 2017, July. Axiomatic attribution for deep networks. In International Conference on Machine Learning (pp. 3319-3328). PMLR.
+**[Integrated Gradients][Integrated Gradients]** - Sundararajan, M., Taly, A. and Yan, Q., 2017, July. Axiomatic attribution for deep networks. In International Conference on Machine Learning (pp. 3319-3328). PMLR.
+
+
+[Grad-CAM]: https://arxiv.org/pdf/1610.02391.pdf
+[Integrated Gradients]: https://arxiv.org/pdf/1703.01365.pdf
